@@ -1,0 +1,347 @@
+{
+  "connected": true,
+  "isAbilityToBeReferrer": false,
+  "referralInfo": {
+    "code": "58DDC27",
+    "alphaGultyIncome": {
+      "totalTokens": 0,
+      "currentLevel": {
+        "tokensFrom": 0,
+        "name": "Shiller",
+        "number": 1,
+        "avatar": "gkQUCMwK47.png"
+      },
+      "levels": [
+        {
+          "tokensFrom": 0,
+          "name": "Shiller",
+          "number": 1,
+          "avatar": "gkQUCMwK47.png"
+        },
+        {
+          "tokensFrom": 331,
+          "name": "Shiller",
+          "number": 2,
+          "avatar": "gkQUCMwK47.png"
+        },
+        {
+          "tokensFrom": 661,
+          "name": "Shiller",
+          "number": 3,
+          "avatar": "gkQUCMwK47.png"
+        },
+        {
+          "tokensFrom": 1001,
+          "name": "Ape",
+          "number": 4,
+          "avatar": "_JiRXC1kUJ.png"
+        },
+        {
+          "tokensFrom": 1661,
+          "name": "Ape",
+          "number": 5,
+          "avatar": "_JiRXC1kUJ.png"
+        },
+        {
+          "tokensFrom": 2321,
+          "name": "Ape",
+          "number": 6,
+          "avatar": "_JiRXC1kUJ.png"
+        },
+        {
+          "tokensFrom": 3001,
+          "name": "Great Ape",
+          "number": 7,
+          "avatar": "hCD1zE2JfB.png"
+        },
+        {
+          "tokensFrom": 3501,
+          "name": "Great Ape",
+          "number": 8,
+          "avatar": "hCD1zE2JfB.png"
+        },
+        {
+          "tokensFrom": 4001,
+          "name": "Great Ape",
+          "number": 9,
+          "avatar": "hCD1zE2JfB.png"
+        },
+        {
+          "tokensFrom": 4501,
+          "name": "Great Ape",
+          "number": 10,
+          "avatar": "hCD1zE2JfB.png"
+        },
+        {
+          "tokensFrom": 5001,
+          "name": "Degen",
+          "number": 11,
+          "avatar": "7z6ioXdrPn.png"
+        },
+        {
+          "tokensFrom": 5601,
+          "name": "Degen",
+          "number": 12,
+          "avatar": "7z6ioXdrPn.png"
+        },
+        {
+          "tokensFrom": 6201,
+          "name": "Degen",
+          "number": 13,
+          "avatar": "7z6ioXdrPn.png"
+        },
+        {
+          "tokensFrom": 6801,
+          "name": "Degen",
+          "number": 14,
+          "avatar": "7z6ioXdrPn.png"
+        },
+        {
+          "tokensFrom": 7401,
+          "name": "Degen",
+          "number": 15,
+          "avatar": "7z6ioXdrPn.png"
+        },
+        {
+          "tokensFrom": 8001,
+          "name": "Guilty",
+          "number": 16,
+          "avatar": "fGCAKJVmlC.png"
+        },
+        {
+          "tokensFrom": 8401,
+          "name": "Guilty",
+          "number": 17,
+          "avatar": "fGCAKJVmlC.png"
+        },
+        {
+          "tokensFrom": 8801,
+          "name": "Guilty",
+          "number": 18,
+          "avatar": "fGCAKJVmlC.png"
+        },
+        {
+          "tokensFrom": 9201,
+          "name": "Guilty",
+          "number": 19,
+          "avatar": "fGCAKJVmlC.png"
+        },
+        {
+          "tokensFrom": 9601,
+          "name": "Guilty",
+          "number": 20,
+          "avatar": "fGCAKJVmlC.png"
+        },
+        {
+          "tokensFrom": 10001,
+          "name": "Alpha",
+          "number": 21,
+          "avatar": "CdLec9ffWZ.png"
+        },
+        {
+          "tokensFrom": 11001,
+          "name": "Alpha",
+          "number": 22,
+          "avatar": "CdLec9ffWZ.png"
+        },
+        {
+          "tokensFrom": 12001,
+          "name": "Alpha",
+          "number": 23,
+          "avatar": "CdLec9ffWZ.png"
+        },
+        {
+          "tokensFrom": 13001,
+          "name": "Alpha",
+          "number": 24,
+          "avatar": "CdLec9ffWZ.png"
+        },
+        {
+          "tokensFrom": 14001,
+          "name": "Alpha",
+          "number": 25,
+          "avatar": "CdLec9ffWZ.png"
+        }
+      ],
+      "namedLevels": [
+        {
+          "name": "Shiller",
+          "tokensFrom": 0,
+          "place": "1-3",
+          "avatar": "gkQUCMwK47.png"
+        },
+        {
+          "name": "Ape",
+          "tokensFrom": 1001,
+          "place": "4-6",
+          "avatar": "_JiRXC1kUJ.png"
+        },
+        {
+          "name": "Great Ape",
+          "tokensFrom": 3001,
+          "place": "7-10",
+          "avatar": "hCD1zE2JfB.png"
+        },
+        {
+          "name": "Degen",
+          "tokensFrom": 5001,
+          "place": "11-15",
+          "avatar": "7z6ioXdrPn.png"
+        },
+        {
+          "name": "Guilty",
+          "tokensFrom": 8001,
+          "place": "16-20",
+          "avatar": "fGCAKJVmlC.png"
+        },
+        {
+          "name": "Alpha",
+          "tokensFrom": 10001,
+          "place": "21-25",
+          "avatar": "CdLec9ffWZ.png"
+        }
+      ],
+      "referralIncome": 0,
+      "alphaLoyalty": 0
+    },
+    "alphaLoyaltyIncome": {
+      "alphaLoyalty": 0,
+      "totalProjects": 0,
+      "totalTasks": 0,
+      "loyaltyProjects": []
+    },
+    "referralIncomeByMounth": {
+      "avarageByMounth": 0,
+      "referralIncomeByMounth": []
+    },
+    "availableReferralIncome": {
+      "availableToClaim": 0,
+      "referralIncomesLastMounth": 0
+    },
+    "currentReferralRank": {
+      "nextRanks": [
+        {
+          "tokensFrom": 1000,
+          "name": "A",
+          "profit": 5
+        },
+        {
+          "tokensFrom": 3000,
+          "name": "B",
+          "profit": 7
+        },
+        {
+          "tokensFrom": 5000,
+          "name": "C",
+          "profit": 9
+        }
+      ],
+      "allRanks": [
+        {
+          "id": 10,
+          "name": "N",
+          "tokensFrom": 0,
+          "profit": 0
+        },
+        {
+          "id": 11,
+          "name": "A",
+          "tokensFrom": 1000,
+          "profit": 5
+        },
+        {
+          "id": 12,
+          "name": "B",
+          "tokensFrom": 3000,
+          "profit": 7
+        },
+        {
+          "id": 13,
+          "name": "C",
+          "tokensFrom": 5000,
+          "profit": 9
+        },
+        {
+          "id": 14,
+          "name": "D",
+          "tokensFrom": 10000,
+          "profit": 11
+        },
+        {
+          "id": 15,
+          "name": "E",
+          "tokensFrom": 25000,
+          "profit": 13
+        },
+        {
+          "id": 16,
+          "name": "F",
+          "tokensFrom": 50000,
+          "profit": 15
+        },
+        {
+          "id": 17,
+          "name": "G",
+          "tokensFrom": 75000,
+          "profit": 17
+        },
+        {
+          "id": 18,
+          "name": "H",
+          "tokensFrom": 125000,
+          "profit": 19
+        },
+        {
+          "id": 19,
+          "name": "I",
+          "tokensFrom": 150000,
+          "profit": 21
+        },
+        {
+          "id": 20,
+          "name": "J",
+          "tokensFrom": 300000,
+          "profit": 23
+        },
+        {
+          "id": 21,
+          "name": "K",
+          "tokensFrom": 500000,
+          "profit": 25
+        }
+      ],
+      "referralRankReachedVolume": 0,
+      "currentRank": {
+        "tokensFrom": 0,
+        "name": "N",
+        "profit": 0
+      },
+      "volumeForNextRank": 1000
+    },
+    "monthlyReferralVolume": {
+      "monthlyReferralVolume": 0,
+      "currentProfit": 0,
+      "monthlyGroupVolume": 0,
+      "referralTotal": 2,
+      "ranksTotal": 1,
+      "referralsByRanks": [
+        {
+          "name": "N",
+          "total": 2,
+          "gropVolume": null
+        }
+      ]
+    }
+  },
+  "wallet": "",
+  "security": {
+    "twoFactorAuth": false,
+    "phoneNumber": null
+  },
+  "username": "",
+  "connectedAccounts": {
+    "twitter": null,
+    "discord": null,
+    "telegram": null
+  }
+}
